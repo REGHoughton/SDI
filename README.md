@@ -1,5 +1,5 @@
 # SDI
-Software Design and Implementasion
+Software Design and Implementation
 
 ## Project description
 
